@@ -1,0 +1,42 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color: rgb(224, 222, 230);
+    line-height: 35px;
+    padding: 25px;
+}
+
+.article {
+    padding:15px;
+    border:1px solid #000;
+    border-radius: 15px;
+    width: 30%;
+    float: left;
+    margin: 5px;
+    background-color: #fff;
+}
+
+h2 {
+    padding: 12px 0;
+}
+
+.btn {
+    display: inline-block;
+    margin: 5px;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.btn-show {
+    background-color: rgb(130, 214, 247);
+    color: rgb(21, 80, 104);
+}
+
+.btn-danger {
+    background-color: rgb(238, 121, 121);
+    color: rgb(133, 8, 8);
+}
